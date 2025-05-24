@@ -32,8 +32,8 @@
 | **DevOps/Tools**    | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)                                                                                                                                                                                                       |
 | **Version Control** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)                                                                                                                                                                                                                                         |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdur-rahim-sheikh&show_icons=true&locale=en&layout=compact" alt="abdur-rahim-sheikh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdur-rahim-sheikh&show_icons=true&locale=en" alt="abdur-rahim-sheikh" /></p>
-
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdur-rahim-sheikh&show_icons=true&locale=en&layout=compact" alt="abdur-rahim-sheikh" /></p>
+<br> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdur-rahim-sheikh&show_icons=true&locale=en" alt="abdur-rahim-sheikh"/></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdur-rahim-sheikh&" alt="abdur-rahim-sheikh" /></p>
